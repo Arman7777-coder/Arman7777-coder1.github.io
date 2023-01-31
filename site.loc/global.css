@@ -1,0 +1,131 @@
+body{margin: 0;
+    padding: 0;}
+    .icon {
+      height: 50px;
+      width: 160px;
+      margin-left: 50px;
+      
+    }
+    .nav_bar{
+       height: 60px;
+       width: all; 
+       background-color:#251762;
+       display: flex;
+       flex-direction: row;
+    }
+    .h3{
+        margin-left: 50px;
+        padding: 0px;
+        color: #fff;
+    }
+    .nav{
+      display: flex;
+      flex-direction: row;  
+      margin-left: 80px;
+    
+    }
+    .login{
+        margin-left: 100px;
+        margin-top: 12px;
+        
+    }
+    .login_button{
+        color:#fff;
+        background-color: #251762;
+        border: none;
+        border-right: #fff solid 1px;
+        cursor: pointer;
+    
+    }
+    .talk_to_as{
+        color: #fff;
+        border: #fff solid 1px;
+        background-color: #251762;
+        border-radius: 20px;
+        height: 33px;
+        width: 100px;
+        margin-left: 10px;
+    }
+    .page{
+        padding: 0;
+        margin: 0;
+        width: all;
+        
+        background-color: #231761;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row;
+    
+       
+    }
+    .h1{
+        color:#f8cfbd;
+        margin-top: 100px;
+        margin-left: 85px;
+        margin-bottom: 0px;
+        text-align: left;
+        font-size: 45px;
+        font-style: bold;
+        float: left;
+        
+    
+    }
+    .p{
+        margin-left:85px;
+        color:#bab2db;
+        margin-top: 50px;
+        float: left;
+        flex-direction: column;
+    }
+    .dis{
+        margin-top: 100px;
+        margin-left: 85px;
+        height: 50px;
+        width: 250px;
+        border: none;
+        border-radius: 50px;
+        color: #fff;
+        background-color:#ed3f38;
+        float: left;
+    }
+    #imgg{
+        height: 400px;
+        width: 600px;
+      
+      margin-top: 170px;
+    
+    }
+    #page1{
+        height: 600px;
+        width: 50%;
+        background-color:#251762;
+    }
+    #page2{
+        margin: 0px;
+        padding: 0px;
+        height: 600px;
+        width: 50%;
+        background-color:#251860; 
+        display: flex;
+        flex-direction: row;
+    
+    }
+    .bar{
+        width: 50px;
+        height: 300px;
+        background-color: #fff;
+        margin-top: 70px;
+        margin-left: auto;
+        background-color:#ed3f38 ;
+        float: left;
+        border-radius: 10px 0px 0px 10px;
+        
+    }
+    #sss{
+        width: 600px;
+        height: 300px;
+        display: none;
+        background-color: #fff;
+        margin-top: 70px;
+    }
+    
